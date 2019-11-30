@@ -1,0 +1,53 @@
+
+button {
+   
+    font-size:20px;
+    margin-top : 420px;
+    margin-left : 50px;
+    position :fixed;
+
+}
+
+
+#feuTricolore {
+    display:flex;
+    flex-direction : column-reverse;
+    justify-content: space-around;
+    align-items: center;
+    background:black;
+    width : 200px;
+    height : 400px;
+    margin:auto;
+    position : fixed;
+    
+}
+
+
+#cercleHaut{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: grey;
+       
+}
+
+
+#cercleCentre{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: grey;
+
+}
+
+
+#cercle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: green;
+   
+}
+
+
+
