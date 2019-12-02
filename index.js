@@ -47,6 +47,8 @@ function execute() {
 
 
 function repeat() {
+    
+    execute();
     setInterval(execute, 8000);
     
 }
